@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.jsh.erp.DepotItemTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 14.318 s <<< FAILURE! - in com.jsh.erp.DepotItemTest
+getFinishNumber(com.jsh.erp.DepotItemTest)  Time elapsed: 0.629 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.jsh.erp.DepotItemTest.getFinishNumber(DepotItemTest.java:27)
+
